@@ -1,5 +1,5 @@
 import pytest
-from classify import classify_triangle
+from HW01.classify import classify_triangle
 
 
 def test_classify_triangle():
