@@ -1,6 +1,5 @@
 import unittest
 import getRepo
-import requests
 
 
 class TestGithubAPI(unittest.TestCase):
