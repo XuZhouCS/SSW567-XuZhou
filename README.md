@@ -2,4 +2,4 @@
 
 project for ssw 567
 
-[![build status of master](https://travis-ci.com/XuZhouCS/SSW567-XuZhou.svg?branch=HW05a_mocking)](https://travis-ci.com/XuZhouCS/SSW567-XuZhou)
+[![build status of HW05a_Mocking](https://travis-ci.com/XuZhouCS/SSW567-XuZhou.svg?branch=HW05a_Mocking)](https://travis-ci.com/XuZhouCS/SSW567-XuZhou)
